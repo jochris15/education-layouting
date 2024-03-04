@@ -1,6 +1,9 @@
 # Front-end Intro (Tailwind / DaisyUI)
 Using DaisyUI with cdn 
+<br>
 [DaisyUI Installation](https://daisyui.com/docs/cdn/)
+<br>
+[Tailwind Cheatsheet](https://tailwindcomponents.com/cheatsheet/)
 
 # Layouting
 
