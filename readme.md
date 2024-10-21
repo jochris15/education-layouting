@@ -1,7 +1,7 @@
-# Front-end Intro (Tailwind / DaisyUI)
-Using DaisyUI with cdn 
+# Front-end Intro (Tailwind)
+Styling using CSS Framework - Tailwind
 <br>
-[DaisyUI Installation](https://daisyui.com/docs/cdn/)
+[Tailwind installation (CDN)](https://tailwindcss.com/docs/installation/play-cdn)
 <br>
 [Tailwind Cheatsheet](https://tailwindcomponents.com/cheatsheet/)
 
