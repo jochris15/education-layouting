@@ -10,7 +10,7 @@ Styling using CSS Framework - Tailwind
 ## Grid
 Grid was designed for two-dimensional layout - rows, and columns at the same time.
 <br>
-[Grid Learning material](https://cssgridgarden.com/)
+[Grid Learning material](https://codingfantasy.com/games/css-grid-attack/play)
 
 
 ## Flex
